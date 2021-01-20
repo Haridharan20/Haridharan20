@@ -15,6 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="33" height="33"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="33" height="33"/>
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haridharan20&layout=compact&hide=html&theme=dark" alt="Haridharan" /> <br><br><br>
