@@ -12,7 +12,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="33" height="33"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="33" height="33"/>
