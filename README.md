@@ -6,8 +6,6 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=Haridharan20" alt="Haridharan"/></p>
 
-- 🎯 I’m currently learning **Angular Js**
-
 - 💌 Reach me here **instagram.com/hari_reo**
 
 <hr><p align="center">
